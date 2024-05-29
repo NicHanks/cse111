@@ -1,0 +1,26 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions. 
+An experience I had where I saw the power of functions was in the first tkinter module 
+where we learned to draw using functions! I've played video games when I was younger and 
+always wanted to see what it was like to program a video game! And now that I've gotten 
+a taste of what its like to program something that creates something visually I feel 
+like is one way that computer programmers program in AAA games. 
+2. In your judgment, what is the value of test functions?
+The value of a test funciton is to double check the work. It is 
+good to set up a second executable method to double check the work 
+because sometimes the first intial thought of concept is flawed. 
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+The first item of business in my trobleshooting process is to first 
+get a grasp on what happening behind the scenes. Then I might be able
+to find and detect the problem and fix it. But if not, then I will 
+use the debugger and start implementing testing functions at each 
+major level of code. One thin I could do to improve my process of 
+troubleshooting is to remain calm. I struggle to not get anxiety-
+prone when there are time-restrictions on the assignment(s). But I know
+that when I put God first I am able to more easily able to remain 
+calm and focused. 

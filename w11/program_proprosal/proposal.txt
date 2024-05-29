@@ -1,0 +1,42 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program? Drone.py 
+
+2. What real-world problem will your program address or help to solve? My program will help solve the problem of programming drones. 
+
+3. What will you learn from developing this program? I will learn the basics of how drones opperate and how to program them.  
+
+4. What Python modules will your program use? pytest to test the code, and coex clover to me program it, and The simple_offboard 
+module of the clover package is intended for simplified programming of the autonomous drone flight.
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+5. Will you separate your Python program into functions that each
+perform a single task? Yes, I will create one function to arm it, one function to take off, and one function for landing, *in 
+a way that doesn't crash it). 
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. Will you write test functions to test at least two of your program
+functions? Since I may not buy the drone and the parts for it, I will code it and test it to make sure it works. I will write one 
+test to make sure that it is armed, and a second to make sure it goes up when it's supposed to go up. 
+
